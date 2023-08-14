@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "551867854171",
+    "project_id": "bankdb-b800d",
+    "storage_bucket": "bankdb-b800d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551867854171:android:50e7d709a3310379637e7e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551867854171-ennun8cf8inenpb2kitf8ettdogdj5mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6a3Bn9dNRbzGRlVltWJlcqocDt44w-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551867854171-ennun8cf8inenpb2kitf8ettdogdj5mh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551867854171-3v0strnbpj4erbavmh8j9fo1e1b87528.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bankofbravosApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
